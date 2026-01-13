@@ -1,5 +1,5 @@
-a=6
-b=9
-c=a+b
-print(c)
+# Simple addition script
+num1 = 10
+num2 = 20
+print(f"The sum is: {num1 + num2}")
 
